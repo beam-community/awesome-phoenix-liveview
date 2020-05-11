@@ -12,6 +12,7 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Adoptoss](https://github.com/adoptoposs/adoptoposs) - Connecting people to keep
   open source software projects maintained - [website](https://adoptoposs.org/)
+- [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard/) - Realtime dashboard with metrics, OS and VM insights
 
 ## Packages
 
