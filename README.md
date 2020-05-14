@@ -12,6 +12,7 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Adoptoss](https://github.com/adoptoposs/adoptoposs) - Connecting people to keep
   open source software projects maintained - [website](https://adoptoposs.org/)
+- [Bonfire](https://github.com/qhwa/bonfire) - A demo project to track book reading using Phoenix LiveView and Event Sourcing - [website](https://bonfire.ooo/)
 - [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard/) - Realtime dashboard with metrics, OS and VM insights
 
 ## Packages
@@ -32,6 +33,10 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5](https://www.youtube.com/watch?v=MZvmYaFkNJI) by Chris McCord
 - [Phoenix JS Hooks: LiveView is now even better!](https://www.youtube.com/watch?v=shoLKuEUQIU)
+
+## Tips and tricks
+
+- [Phoenix LiveView tips](https://github.com/nshoes/phoenix-live-view-tips) - Awesome list with common gotchas, tips and tidbits.
 
 # Contributing
 
