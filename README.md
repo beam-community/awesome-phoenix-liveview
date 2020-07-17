@@ -13,6 +13,7 @@ If you think a new resource should be added, please file an issue or even better
 - [Adoptoss](https://github.com/adoptoposs/adoptoposs) - Connecting people to keep
   open source software projects maintained - [website](https://adoptoposs.org/)
 - [Bonfire](https://github.com/qhwa/bonfire) - A demo project to track book reading using Phoenix LiveView and Event Sourcing - [website](https://bonfire.ooo/)
+- [Comparemoji](https://github.com/maxvw/comparemoji.com) - Compare emojis on different platforms - [website](comparemoji.com)
 - [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard/) - Realtime dashboard with metrics, OS and VM insights
 
 ## Packages
@@ -27,7 +28,11 @@ If you think a new resource should be added, please file an issue or even better
 ## Blog posts
 
 - [Building and Playing the Go Game with Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) by AppSignal
+- [Linear Regression with Elixir, Phoenix and LiveView](https://tiemenwaterreus.com/posts/linear-regression-elixir-phoenix-liveview-i/) by Tiemen Waterreus
+- [Optimising data-over-the-wire in Phoenix LiveView](https://thepugautomatic.com/2020/07/optimising-data-over-the-wire-in-phoenix-liveview/) by Henrik Nyh
+- [Using Bootstrap Native with Phoenix LiveView](https://dashbit.co/blog/using-bootstrap-native-with-live-view) by Jose Valim/Dashbit
 - [Phoenix LiveView Comment and Reply](https://dockyard.com/blog/2019/11/25/phoenix-liveview-comment-and-reply) by DockYard
+
 
 ## Videos
 
