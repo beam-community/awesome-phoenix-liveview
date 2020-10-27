@@ -43,6 +43,10 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Phoenix LiveView tips](https://github.com/nshoes/phoenix-live-view-tips) - Awesome list with common gotchas, tips and tidbits.
 
+## Lists
+
+- [Phoenix LiveView Examples](https://tefter.io/zorbash/lists/phoenix-liveview-examples) - A curated list of examples, demos, guides and tutorials
+
 # Contributing
 
 Contributions are most welcome!
