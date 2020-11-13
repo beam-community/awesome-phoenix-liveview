@@ -38,6 +38,7 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5](https://www.youtube.com/watch?v=MZvmYaFkNJI) by Chris McCord
 - [Phoenix JS Hooks: LiveView is now even better!](https://www.youtube.com/watch?v=shoLKuEUQIU)
+- [Live with Phoenix LiveView and Laravel LiveWire (featuring Caleb Porzio)](https://www.youtube.com/watch?v=0iNCrQASviQ) Video going through building a Twitter feed in both LiveView and LiveWire
 
 ## Tips and tricks
 
