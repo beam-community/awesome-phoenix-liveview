@@ -15,6 +15,7 @@ If you think a new resource should be added, please file an issue or even better
 - [Bonfire](https://github.com/qhwa/bonfire) - A demo project to track book reading using Phoenix LiveView and Event Sourcing - [website](https://bonfire.ooo/)
 - [Comparemoji](https://github.com/maxvw/comparemoji.com) - Compare emojis on different platforms - [website](https://comparemoji.com)
 - [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard/) - Realtime dashboard with metrics, OS and VM insights
+- [Rube](https://github.com/fremantle-industries/rube) - A multi-chain DeFi development toolkit
 
 ## Packages
 
