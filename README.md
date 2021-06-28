@@ -48,6 +48,10 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Phoenix LiveView Examples](https://tefter.io/zorbash/lists/phoenix-liveview-examples) - A curated list of examples, demos, guides and tutorials
 
+## Books
+
+- [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/) - Interactive Elixir Web Programming Without Writing Any JavaScript by Bruce A. Tate and Sophie DeBenedetto
+
 # Contributing
 
 Contributions are most welcome!
