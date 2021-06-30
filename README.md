@@ -14,6 +14,7 @@ If you think a new resource should be added, please file an issue or even better
   open source software projects maintained - [website](https://adoptoposs.org/)
 - [Bonfire](https://github.com/qhwa/bonfire) - A demo project to track book reading using Phoenix LiveView and Event Sourcing - [website](https://bonfire.ooo/)
 - [Comparemoji](https://github.com/maxvw/comparemoji.com) - Compare emojis on different platforms - [website](https://comparemoji.com)
+- [Hygeia](https://github.com/jshmrtn/hygeia) - COVID 19 Tracing on the BEAM.
 - [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard/) - Realtime dashboard with metrics, OS and VM insights
 
 ## Packages
