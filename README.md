@@ -16,6 +16,7 @@ If you think a new resource should be added, please file an issue or even better
 - [Comparemoji](https://github.com/maxvw/comparemoji.com) - Compare emojis on different platforms - [website](https://comparemoji.com)
 - [Hygeia](https://github.com/jshmrtn/hygeia) - COVID 19 Tracing on the BEAM.
 - [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard/) - Realtime dashboard with metrics, OS and VM insights
+- [Slurpee](https://github.com/fremantle-industries/slurpee) - A GUI frontend to manage blockchain ingestion with slurp
 - [Rube](https://github.com/fremantle-industries/rube) - A multi-chain DeFi development toolkit
 
 ## Packages
