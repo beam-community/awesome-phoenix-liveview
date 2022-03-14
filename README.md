@@ -50,7 +50,7 @@ If you think a new resource should be added, please file an issue or even better
 ## Lists
 
 - [Phoenix LiveView Examples](https://tefter.io/zorbash/lists/phoenix-liveview-examples) - A curated list of examples, demos, guides and tutorials
-- [Phoenix LiveView Collection](https://phx-live-view-collection.gigalixirapp.com/) - A collection of demos and examples.
+- [Phoenix LiveView Demos](https://liveviewdemos.com) - A collection of demos and examples.
 
 ## Books
 
