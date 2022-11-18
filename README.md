@@ -56,6 +56,12 @@ If you think a new resource should be added, please file an issue or even better
 
 - [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/) - Interactive Elixir Web Programming Without Writing Any JavaScript by Bruce A. Tate and Sophie DeBenedetto
 
+## Editor and IDE integration
+
+### VSCode
+
+- [Phoenix LiveView Snippets](https://marketplace.visualstudio.com/items?itemName=phoenix-liveview-snippets.phoenix-liveview-snippets)
+
 # Contributing
 
 Contributions are most welcome!
